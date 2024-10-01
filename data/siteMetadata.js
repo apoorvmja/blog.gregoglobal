@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'GreGoGlobal',
+  title: 'GreGoGlobal -MJ Study Abroad Blog',
   author: 'MJ Study Abroad',
   headerTitle: 'GreGoGlobal -MJ Study Abroad',
-  description: 'A blog created by MJ Study Abroad to help students in thier educational journey.',
+  description: 'A blog created by MJ Study Abroad to help students in thier educational journey. Get GRE vouchers and Obtain FREE Shorter Gre mock tests.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.gregoglobal.com',
